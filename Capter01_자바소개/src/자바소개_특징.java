@@ -1,7 +1,7 @@
 // ctrl + space
 // sysout / sout
 // 주석 ==> 한줄 주석 ==> 가독성
--/*
+/*
   * 여러줄 주석
   *
   * 1. 변수 : 데이터형 (메모리에 저장하는 크기)
@@ -156,7 +156,7 @@
   */ 
 public class 자바소개_특징 {
  // ctrl+shift+/ 
-	ctrl+shift+\ 
+ //	ctrl+shift+\ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("HellO");
