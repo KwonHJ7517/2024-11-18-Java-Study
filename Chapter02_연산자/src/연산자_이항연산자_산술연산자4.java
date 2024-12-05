@@ -29,6 +29,6 @@ public class 연산자_이항연산자_산술연산자4 {
 		System.out.println(kor);
 		System.out.println(eng);
 		System.out.println(math); 
-	}
+	} 
 
 }
