@@ -17,7 +17,7 @@ public class 연산자_이항연산자_산술연산자3 {
         int b=(int)(Math.random()*100)+1;
         System.out.println("a="+a);
         System.out.println("b="+b);
-        System.out.println(a+b);
+        System.out.println(a+b); 
 	}
 
 }
