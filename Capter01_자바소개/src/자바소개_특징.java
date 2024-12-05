@@ -170,7 +170,6 @@ public class 자바소개_특징 {
 		System.out.println("HellO");
 		System.out.println("HellO");
 		System.out.println("HellO");
-		System.out.println("HellO");
 
 	}
 
