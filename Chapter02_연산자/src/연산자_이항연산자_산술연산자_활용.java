@@ -9,7 +9,7 @@ public class 연산자_이항연산자_산술연산자_활용 {
      *           2. 사용자로부터 입력값을 받아서 처리
      *              Scanner
      *           3. 컴퓨터가 임의로 설정 => 난수 (랜덤)      
-     */
+     */ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         // Scanner클래스를 메모리에 저장
