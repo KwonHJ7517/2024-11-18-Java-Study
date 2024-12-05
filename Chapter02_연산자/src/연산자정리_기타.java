@@ -15,7 +15,7 @@ public class 연산자정리_기타 {
 		//System.out.print("\n");
 		//System.out.println();
 		//System.out.println("Hello \tHello \tHello");
-		System.out.println("\"홍길동\""); //"홍길동"
+		System.out.println("\"홍길동\""); //"홍길동" 
 	}
 
 }
