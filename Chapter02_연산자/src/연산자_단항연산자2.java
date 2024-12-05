@@ -6,7 +6,7 @@
  *         => 게임 : 턴
  *      => 무조건 boolean 만 사용이 가능
  *         true => !true
- *         
+ *          
  *      ex)
  *          boolean bCheck=false;
  *          !bCheck => true      
