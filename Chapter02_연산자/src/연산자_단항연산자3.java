@@ -2,7 +2,7 @@
  *     형변환연산자
  *     ==== long => int , char => int , byte => int
  *          int => double , double => int
- *          
+ *           
  *     숫자/문자(정수인식) => boolean은 제외
  *     
  *     데이터형의 크기
