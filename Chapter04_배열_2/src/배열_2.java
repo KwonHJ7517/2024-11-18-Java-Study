@@ -1,4 +1,4 @@
-// char 배열 사용법 / double / String
+// char 배열 사용법 / double / String 
 // => 응용 => 정렬 / 달력 ... / 중복없는 난수
 // => 지니뮤직 , 서울 여행 , 맛집 ....
 public class 배열_2 {
