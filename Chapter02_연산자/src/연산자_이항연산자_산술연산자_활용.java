@@ -19,7 +19,7 @@ public class 연산자_이항연산자_산술연산자_활용 {
 		int kor=scan.nextInt();
 		int eng=scan.nextInt();
 		int math=scan.nextInt();
-		
+		 
 		// 처리 ==> 결과값 출력
 		System.out.println("==== 결과값 ====");
 		System.out.println("국어 점수:"+kor);
