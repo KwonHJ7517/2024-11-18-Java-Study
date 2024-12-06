@@ -1,5 +1,5 @@
 // 3명의 학생 점수(국어,영어,수학) 평균 , 총점 , 학점
-
+ 
 import java.util.Scanner;
 public class 반복문_4 {
 
