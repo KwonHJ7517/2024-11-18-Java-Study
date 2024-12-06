@@ -1,6 +1,6 @@
 // 1~100 사이의 3의배수 합 , 5의배수 합 , 7의배수 합
 public class 반복문_5 {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         int a3=0,b5=0,c7=0;
