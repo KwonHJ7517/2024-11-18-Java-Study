@@ -3,7 +3,7 @@
 // 6,7,8 => 여름
 // 9,10,11 => 가을
 // 12,1,2 => 겨울
-// => 난수처리
+// => 난수처리 
 public class 자바선택문_2 {
 
 	public static void main(String[] args) {
