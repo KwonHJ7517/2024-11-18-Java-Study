@@ -1,4 +1,4 @@
-// 1~100까지의 합 - 67page
+// 1~100까지의 합 - 67page 
 public class 반복문_4 {
     // 짝수합 , 홀수합, 총합
 	public static void main(String[] args) {
