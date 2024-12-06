@@ -1,4 +1,4 @@
-/*
+/* 
  *     형변환연산자
  *     ==== long => int , char => int , byte => int
  *          int => double , double => int
