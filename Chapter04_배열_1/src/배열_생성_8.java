@@ -1,4 +1,4 @@
-
+ 
 public class 배열_생성_8 {
 
 	public static void main(String[] args) {
