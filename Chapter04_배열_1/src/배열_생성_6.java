@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays; 
 import java.util.Scanner;
 // 국어점수 입력 => 5 rank =>5
 public class 배열_생성_6 {
