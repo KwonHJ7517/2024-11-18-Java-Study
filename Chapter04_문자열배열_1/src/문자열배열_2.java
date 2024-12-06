@@ -1,4 +1,4 @@
-import com.sist.data.*; // 사용자 정의
+import com.sist.data.*; // 사용자 정의 
 import java.util.Scanner;
 public class 문자열배열_2 {
 
