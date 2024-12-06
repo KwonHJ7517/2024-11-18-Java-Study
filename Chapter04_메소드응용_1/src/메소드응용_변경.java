@@ -1,7 +1,7 @@
 // 메소드형 숫자 야구게임
-import java.util.Arrays;
+import java.util.Arrays; 
 import java.util.Scanner;
-public class 메소드응용_변경 {
+public class 메소드응용_변경 { 
 	// 중복없는 난수 (3개의 정수)
 	static int[] rand()
 	{
