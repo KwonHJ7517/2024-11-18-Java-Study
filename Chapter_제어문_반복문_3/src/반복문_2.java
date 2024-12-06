@@ -1,4 +1,4 @@
-// 1~10까지 난수 =>10를 발생 => 평균
+// 1~10까지 난수 =>10를 발생 => 평균 
 public class 반복문_2 {
 
 	public static void main(String[] args) {
