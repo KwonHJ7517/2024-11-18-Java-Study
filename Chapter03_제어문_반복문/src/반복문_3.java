@@ -1,4 +1,4 @@
-
+ 
 import java.util.Scanner;
 public class 반복문_3 {
 
