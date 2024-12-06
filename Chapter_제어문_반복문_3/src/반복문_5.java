@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class 반복문_5 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         int com=(int)(Math.random()*100)+1;
