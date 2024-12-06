@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 public class 매소드응용_변경_2 {
 	//입력
 	static int input(String msg)
