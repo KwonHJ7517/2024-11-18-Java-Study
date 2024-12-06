@@ -1,4 +1,4 @@
-// 점수를 입력받아서 학점 출력
+// 점수를 입력받아서 학점 출력 
 public class 자바제어문_1 {
 
 	public static void main(String[] args) {
