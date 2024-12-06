@@ -1,4 +1,4 @@
-// 6개의 난수 발생 => 중복이 없는 데이터 출력 (1~45사이의 난수)
+// 6개의 난수 발생 => 중복이 없는 데이터 출력 (1~45사이의 난수) 
 public class 배열_5 {
 
 	public static void main(String[] args) {
