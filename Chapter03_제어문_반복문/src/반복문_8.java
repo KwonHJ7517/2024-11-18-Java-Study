@@ -2,7 +2,7 @@
 // 1~100사이
 // 50 56 57 90 87  67 56 34 23 78
 public class 반복문_8 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         int max=1,min=100,count=0;
