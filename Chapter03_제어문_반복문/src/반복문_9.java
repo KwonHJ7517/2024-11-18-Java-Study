@@ -1,6 +1,6 @@
 // 10개의 알파벳을 추출 => 대문자 몇개 , 소문자 몇개
 public class 반복문_9 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         int dcnt=0,scnt=0;
