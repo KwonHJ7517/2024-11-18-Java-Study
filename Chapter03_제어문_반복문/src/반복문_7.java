@@ -1,4 +1,4 @@
-// 무한루프
+// 무한루프 
 /*
  *     컴퓨터 => 난수 : 1~100사이의 숫자 하나를 추출
  *     => 맞추는 게임 => 힌트 :UP/DOWN
@@ -8,7 +8,7 @@
 import java.util.Scanner;
 // 반복문 => if문
 public class 반복문_7 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         // 임이의 수를 추출
