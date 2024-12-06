@@ -1,4 +1,4 @@
-// 10개의 정수를 임의로 추출 (1~100) => max,min
+// 10개의 정수를 임의로 추출 (1~100) => max,min 
 // max의 위치 / min의 위치
 
 import java.util.Arrays;
