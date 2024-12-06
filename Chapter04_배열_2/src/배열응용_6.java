@@ -1,4 +1,4 @@
-
+ 
 public class 배열응용_6 {
 
 	public static void main(String[] args) {
