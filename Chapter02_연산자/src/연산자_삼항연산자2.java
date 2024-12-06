@@ -1,7 +1,7 @@
 // 사용자로부터 값을 받아서 => 합격 => 60점이상
 import java.util.Scanner;
 public class 연산자_삼항연산자2 {
- 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         Scanner scan=new Scanner(System.in);  // 클래스 저장
