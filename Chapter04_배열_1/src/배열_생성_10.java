@@ -1,5 +1,5 @@
 /*
- *   중복없는 난수 => 3개 발생(1~9)
+ *   중복없는 난수 => 3개 발생(1~9) 
  *   ========================
  *   사용자 입력
  *   3개 입력 => 맞추는 프로그램 : 숫자 야구게임
@@ -9,7 +9,7 @@
  *   	3,4,6 => 1S-1B
  *   	==> 3S
  */
-import java.util.Arrays;
+import java.util.Arrays; 
 import java.util.Scanner;
 public class 배열_생성_10 {
 
