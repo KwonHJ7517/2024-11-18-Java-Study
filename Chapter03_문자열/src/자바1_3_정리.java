@@ -156,7 +156,7 @@ public class 자바1_3_정리 {
 		int month=sc.nextInt();
 		System.out.print("일 입력:");
 		int day=sc.nextInt();
-		
+		 
 		System.out.println(year+"년도"+month+"월"+day+"일");
 	}
 
