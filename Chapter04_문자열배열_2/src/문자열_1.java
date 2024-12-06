@@ -1,5 +1,5 @@
 /*
- *     문자열 배열
+ *     문자열 배열 
  *     String[] 배열명={}; => 명시적 선언
  *     String[] 배열명=new String[]; => default => null
  *     
