@@ -1,4 +1,4 @@
-// 대문자 변환 + toUpperCase()
+// 대문자 변환 + toUpperCase() 
 import java.util.Scanner;
 /*
  *  함수 : function
