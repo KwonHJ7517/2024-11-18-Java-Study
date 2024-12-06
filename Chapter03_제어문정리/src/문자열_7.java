@@ -1,5 +1,5 @@
 /*
- *   변경
+ *   변경 
  *    = toUpperCase() : 대문자 변환
  *    = toLowerCase() : 소문자 변환
  *    = replace() : 지정된 데이터 변경
@@ -19,7 +19,7 @@
  *         <input type="text">
  * 
  */
-import javax.swing.JFrame;
+import javax.swing.JFrame; 
 import javax.swing.JTextField;
 public class 문자열_7 extends JFrame{
 	public 문자열_7()
