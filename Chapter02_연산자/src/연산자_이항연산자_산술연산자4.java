@@ -10,7 +10,7 @@
  */
 import java.util.Scanner;
 public class 연산자_이항연산자_산술연산자4 {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         // 클래스를 메모리에 저장 => new
