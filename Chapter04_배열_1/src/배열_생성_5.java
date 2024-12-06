@@ -1,4 +1,4 @@
-// => 정수 => 0~9 사이의 난수 발생 => 30개 빈도수를 구한다
+// => 정수 => 0~9 사이의 난수 발생 => 30개 빈도수를 구한다 
 public class 배열_생성_5 {
 
 	public static void main(String[] args) {
