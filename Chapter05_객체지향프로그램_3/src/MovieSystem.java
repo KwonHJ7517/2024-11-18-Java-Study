@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 import java.io.*;
 public class MovieSystem {
   // 영화 전체 정보 => 모든 사용자가 공유 
