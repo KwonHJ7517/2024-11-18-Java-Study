@@ -1,4 +1,4 @@
-import javax.swing.*;
+import javax.swing.*; 
 public class MovieMain extends JFrame{
     MovieMain() {
 		// TODO Auto-generated constructor stub
