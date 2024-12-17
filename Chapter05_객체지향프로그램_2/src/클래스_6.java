@@ -1,4 +1,4 @@
-class Rand
+class Rand 
 {
 	int[] arr=new int[5];// 저장이 안됨 
 	static int[] arr2=new int[5];// 이미 저장 
