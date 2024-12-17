@@ -1,4 +1,4 @@
-package com.sist;
+package com.sist; 
 /*
  *    메소드 형식
  *    
