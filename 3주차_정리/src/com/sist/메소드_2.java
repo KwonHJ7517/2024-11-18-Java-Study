@@ -1,4 +1,4 @@
-package com.sist;
+package com.sist; 
 import java.util.Scanner;
 import java.io.*; // 파일 , 네크워크 전송 : 읽기/쓰기 
 // Input / Output => io => 반드시 예외처리
