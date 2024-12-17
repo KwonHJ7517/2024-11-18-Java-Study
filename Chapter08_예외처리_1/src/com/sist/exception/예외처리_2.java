@@ -1,0 +1,35 @@
+package com.sist.exception;
+/* 
+ *    예외처리
+ *      => 전체
+ *      => 예상되는 부문만
+ */
+public class 예외처리_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*try
+		{
+			for(int i=1;i<=10;i++)
+			{
+				int r=(int)(Math.random()*3);
+				// 0,1,2
+				int a=i/r;// 오류가 발생하면 catch 수행
+				System.out.println("i="+i+",a="+a);
+			}
+		}catch(Exception e)
+		{
+			
+		}*/
+		for(int i=1;i<=10;i++)
+		{
+			try
+			{
+				int r=(int)(Math.random()*3);
+				int a=i/r;
+				System.out.println("i="+i+",a="+a);
+			}catch(Exception ex) {}
+		}
+	}
+
+}
