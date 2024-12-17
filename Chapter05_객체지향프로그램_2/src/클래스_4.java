@@ -1,4 +1,4 @@
-class Sawon
+class Sawon 
 {
 	int sabun;
 	String name;
