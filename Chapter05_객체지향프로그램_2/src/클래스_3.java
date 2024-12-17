@@ -1,4 +1,4 @@
-class Member2
+class Member2 
 {
 	int no=100; // Heap => 멤버변수 
 	int id=300;
